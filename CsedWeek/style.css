@@ -1,0 +1,31 @@
+@charchet;
+body{
+    background-color: rgba(0, 255, 255, 0.268);
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+
+p{
+    margin: 10%;
+    text-align: justify;
+}
+
+div{
+    text-align: center;
+    background-color:#ffff;
+    width: 520px;
+    height: 1000px;
+    padding: 40px;
+    margin: auto;
+    border-radius: 20px;
+    
+
+}
+
+
